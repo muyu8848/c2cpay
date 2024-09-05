@@ -3,8 +3,9 @@
 该项目基于Java开发。 
 
 * 后端采用Spring Boot、Spring Data Jpa、Sa Token、 Redis、Mysql。
-* 前端采用uniapp跨端开发，一套代码，可发布到iOS、Android、Web（响应式）等多个平台。
+* 前端采用uniapp跨端开发，一套代码，可发布到iOS、Android、Web（响应式）等多个平台，另外还有更流畅的flutter版本。
 * 本项目主要供交流学习，请不要用于商业项目。
+
 
 ## 联系我们
 如需获取最新版本,请联系我们：纸飞机 Telegram：muyu8848
